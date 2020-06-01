@@ -2,7 +2,7 @@
 <iframe 
     width="600" 
     height="100%" 
-    src="https://www.google.com"
+    src="https://www.bing.com"
     frameborder="0" 
     allowfullscreen>
 </iframe>
